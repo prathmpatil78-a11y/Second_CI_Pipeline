@@ -1,4 +1,3 @@
-```yaml
 name: Python CI Pipeline
 
 on:
@@ -26,4 +25,3 @@ jobs:
 
       - name: Run all tests
         run: python -m pytest -v
-```
